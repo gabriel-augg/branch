@@ -1,0 +1,4 @@
+git push origin "nome da branch"
+git checkout -b "nome da branch"
+git checkout "nome da branch"
+git clone "link do repositorio"
