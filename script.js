@@ -5,3 +5,6 @@ function somar(){
 function subtrair(){
     return 1 - 2
 }
+function dividir(){
+    return 1/2
+}
