@@ -8,3 +8,7 @@ function subtrair(){
 function dividir(){
     return 1/2
 }
+
+function multiplicar(){
+    return 5 * 2
+}
